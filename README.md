@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+## I'm Kalindu Bandara, a motivated and passionate Software Developer with over 2 years of experience in the industry.
 
 <!--
 **izanka/izanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
