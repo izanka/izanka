@@ -2,6 +2,25 @@
 
 ## I'm Kalindu Bandara, a motivated and passionate Software Developer with over 2 years of experience in the industry.
 
+### About Me
+- 🔭 I’m currently working on building web applications using C#, ASP .NET Core, Angular, and TypeScript.
+- 🌱 I’m currently learning DevOps practices and Azure cloud platform.
+- 📫 How to reach me: 10.kalindu@gmail.com
+
+### Skills
+- ASP .NET Core
+- C#
+- Angular
+- TypeScript
+- HTML & CSS
+- MongoDB
+- SQL Server Management Studio
+- Git
+- Azure DevOps
+
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kalindu10/)
+
 <!--
 **izanka/izanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
