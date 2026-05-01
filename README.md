@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Kalindu Bandara, a motivated and passionate Software Developer with over 3 years of experience in the industry.
+## I'm Kalindu Bandara, a motivated and passionate Software Developer with over 5 years of experience in the industry.
 
 ### About Me
 - 🔭 I’m currently working on building web applications using C#, ASP .NET Core, Angular, and TypeScript.
